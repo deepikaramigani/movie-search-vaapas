@@ -1,0 +1,11 @@
+.dog-img {
+  width: 300px;
+  height: 300px;
+}
+.movie-card {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 16px;
+  width: 200px;
+  text-align: center;
+}
