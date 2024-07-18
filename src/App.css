@@ -1,12 +1,9 @@
-.App {
-  text-align: center;
-}
-
 .main-container {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  align-content: center;
   background-color: #ddd;
   min-height: 100vh;
   background-size: cover;
@@ -50,6 +47,7 @@
 .movie-list {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 16px;
 }
 

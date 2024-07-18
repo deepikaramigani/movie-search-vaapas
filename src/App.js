@@ -36,6 +36,7 @@ const App = () => {
       {loading && (
         <div className="products-loader-container">
           <Rings type="ThreeDots" color="black" height="50" width="50" />
+          <p>Loading...</p>
         </div>
       )}
       {error && <p>Can't load the Data</p>}

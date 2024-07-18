@@ -19,13 +19,6 @@ This is a simple React application that allows users to search for movies using 
 - Handle loading states and errors.
 - Form validation to ensure the search input is not empty.
 
-## Installation
+  ```
 
-1. Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
-
-2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/movie-search-app.git
-   cd movie-search-app
-   ```
+  ```
